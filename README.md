@@ -1,2 +1,2 @@
-# coin-flipper
+# color-flipper
 Start a little project to learn some DOM
